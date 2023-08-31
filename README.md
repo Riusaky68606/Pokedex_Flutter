@@ -14,3 +14,16 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Imagenes
+En la esta imagen vemos el login principal que contiene usuario y contraseña y botton de iniciar seccion, este controla si el usuario esta o no registrado caso contrario retorna un no esta registrado el usuario
+### Imagen1
+![Imagen 1](https://github.com/Riusaky68606/Pokedex_Flutter/assets/79267818/1b4856f0-dadd-40bd-9be7-63e8d42ae9f0)
+
+En esta otra imagen ingresamos el usuario y la contraseña y verificamos la autenticidad
+### Imagen2
+En esta imagen podemos visualizar que el ingreso a la aplicacion despues de hacer validos las credenciales.
+![Imagen 2](https://github.com/Riusaky68606/Pokedex_Flutter/assets/79267818/c2126af9-4336-464e-94e6-45b31d292b43)
+
+### Imagen3
+![Imagen 3](https://github.com/Riusaky68606/Pokedex_Flutter/assets/79267818/72fb6f31-c845-46f2-81bb-29502070082c)
